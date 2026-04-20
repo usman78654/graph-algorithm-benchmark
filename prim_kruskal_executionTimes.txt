@@ -1,0 +1,3 @@
+Prim MST execution time: 0.798253 seconds
+Kruskal MST execution time: 0.419826 seconds
+Average Degree execution time: 0.000008 seconds

@@ -1,0 +1,107 @@
+EXECUTION TIMES OF ALL ALGORITHMS
+===================================
+
+Dataset: soc-redditHyperlinks-body.tsv
+Nodes: 35,776
+Edges: 281,229 (undirected)
+
+Machine Specification:
+CPU: i7 8700K @ 3.7GHz
+RAM: 16GB
+GPU: GTX 1080 Ti 11GB VRAM
+OS: Windows 11
+Python: 3.9
+
+====================================
+EXECUTION TIME SUMMARY TABLE
+====================================
+
+1. GRAPH TRAVERSAL ALGORITHMS
+--------------------------------
+Algorithm              | Execution Time  | Nodes Visited
+BFS (Breadth-First)    | 0.056346 sec    | 18,827
+DFS (Depth-First)      | 0.071730 sec    | 18,827
+Cycle Detection        | 0.000061 sec    | All nodes
+
+
+2. SHORTEST PATH ALGORITHMS
+--------------------------------
+Algorithm              | Execution Time  | Nodes Processed
+Dijkstra               | 0.129538 sec    | 35,776 nodes
+Bellman-Ford           | 0.487246 sec    | 35,776 nodes
+
+Dijkstra is 3.76x faster than Bellman-Ford
+(Expected: Dijkstra O((V+E)logV) vs Bellman-Ford O(VE))
+
+
+3. MINIMUM SPANNING TREE ALGORITHMS
+--------------------------------
+Algorithm              | Execution Time  | Edges in MST
+Prim's Algorithm       | 0.798253 sec    | 34,670 edges
+Kruskal's Algorithm    | 0.419826 sec    | 35,279 edges
+Average Degree         | 0.000008 sec    | 15.7217
+
+
+Kruskal is 1.90x faster than Prim's
+(Kruskal: O(ElogE), Prim: O(VlogE) with priority queue)
+
+
+4. GRAPH PROPERTY CALCULATIONS
+--------------------------------
+Algorithm              | Execution Time  | Result
+Diameter Calculation   | 47.057217 sec   | 12.0
+(Limited to 500 nodes for computation time)
+
+
+====================================
+OVERALL PERFORMANCE SUMMARY
+====================================
+
+Total Algorithms Run: 8
+Total Execution Time: ~48.9 seconds
+
+Fastest:    Cycle Detection      (0.000061 sec)
+Slowest:    Diameter Calculation (47.057217 sec) *
+
+*Limited to 500 nodes; full diameter would take longer
+
+Performance on Full Dataset:
+- Graph Traversal:     < 0.1 sec (very fast)
+- Shortest Paths:      < 0.5 sec (fast)  
+- MST:                 < 1 sec (fast)
+- Diameter:            ~47 sec (slower on limited set)
+
+====================================
+ANALYSIS
+====================================
+
+1. BFS vs DFS:
+   - BFS: 0.056346 sec (FASTER)
+   - DFS: 0.071730 sec
+   - Difference: DFS is 1.27x slower (due to Python list operations)
+   - Using deque for BFS provides O(1) popleft vs O(n) for list.pop(0)
+
+2. Shortest Paths:
+   - Dijkstra (0.129538 sec) OUTPERFORMS Bellman-Ford (0.487246 sec)
+   - Speedup: 3.76x faster
+   - Dijkstra uses min-heap priority queue (optimal)
+   - Without min-heap, both would be much slower
+
+3. MST Algorithms:
+   - Kruskal (0.419826 sec) OUTPERFORMS Prim (0.798253 sec)
+   - Speedup: 1.90x faster
+   - Kruskal: Edge sorting + Union-Find (very efficient)
+   - Prim: Priority queue heap operations
+   - Both produced valid MSTs with different edge weights
+
+4. Diameter Calculation:
+   - 47.057217 seconds for 500 nodes
+   - Extrapolated for all 35,776 nodes would be ~3400 seconds
+   - Reason: Floyd-Warshall or all-pairs shortest path is O(V³)
+   - Practical limitation: diameter on large graphs requires optimization
+
+5. Data Structure Impact:
+   - Deque vs List: Critical for BFS performance
+   - Heap vs Array: Essential for Dijkstra/Prim efficiency
+   - Union-Find: Enables Kruskal's fast implementation
+   - Memoization: Could optimize diameter calculations

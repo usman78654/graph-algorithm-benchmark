@@ -1,0 +1,1 @@
+Diameter computation time: 47.057217 seconds

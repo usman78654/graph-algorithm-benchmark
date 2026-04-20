@@ -1,0 +1,1003 @@
+Calculating diameter using the first 500 nodes...
+Processing node 1: landrover
+Max distance from landrover: 9.0
+Processing node 2: holyorderofprimes
+Max distance from holyorderofprimes: 8.0
+Processing node 3: shorthand
+Max distance from shorthand: 10.0
+Processing node 4: collections
+Max distance from collections: 0
+Processing node 5: weaning
+Max distance from weaning: 9.0
+Processing node 6: pointerlesser
+Max distance from pointerlesser: 8.0
+Processing node 7: joyetechlogos
+Max distance from joyetechlogos: 0
+Processing node 8: grayanddeanresearch
+Max distance from grayanddeanresearch: 8.0
+Processing node 9: loseit_progresspics
+Max distance from loseit_progresspics: 0
+Processing node 10: whoworeitbetter
+Max distance from whoworeitbetter: 9.0
+Processing node 11: codersforsanders
+Max distance from codersforsanders: 8.0
+Processing node 12: ecr_gaming
+Max distance from ecr_gaming: 8.0
+Processing node 13: wonderwoman
+Max distance from wonderwoman: 9.0
+Processing node 14: dogescavengerhunt
+Max distance from dogescavengerhunt: 8.0
+Processing node 15: learnspanish
+Max distance from learnspanish: 8.0
+Processing node 16: infidelity
+Max distance from infidelity: 8.0
+Processing node 17: scuttlebuttcompendium
+Max distance from scuttlebuttcompendium: 8.0
+Processing node 18: savedyouaclick
+Max distance from savedyouaclick: 8.0
+Processing node 19: emuwarflashbacks
+Max distance from emuwarflashbacks: 0
+Processing node 20: let_make_cake
+Max distance from let_make_cake: 0
+Processing node 21: another30k
+Max distance from another30k: 9.0
+Processing node 22: cudamanager
+Max distance from cudamanager: 0
+Processing node 23: narutoanime
+Max distance from narutoanime: 9.0
+Processing node 24: animesuggesttesting
+Max distance from animesuggesttesting: 9.0
+Processing node 25: piratedfo4
+Max distance from piratedfo4: 9.0
+Processing node 26: pianomastr64
+Max distance from pianomastr64: 8.0
+Processing node 27: soccerbanners
+Max distance from soccerbanners: 0
+Processing node 28: thegoochark
+Max distance from thegoochark: 1.0
+Processing node 29: telegrambots
+Max distance from telegrambots: 9.0
+Processing node 30: civhybridgames
+Max distance from civhybridgames: 8.0
+Processing node 31: lanosparteis
+Max distance from lanosparteis: 8.0
+Processing node 32: rngrswithpizza
+Max distance from rngrswithpizza: 9.0
+Processing node 33: serialaftermath
+Max distance from serialaftermath: 8.0
+Processing node 34: iosgaming
+Max distance from iosgaming: 8.0
+Processing node 35: vintagesynths
+Max distance from vintagesynths: 0
+Processing node 36: hapkido
+Max distance from hapkido: 9.0
+Processing node 37: osureport
+Max distance from osureport: 9.0
+Processing node 38: sailingcrew
+Max distance from sailingcrew: 0
+Processing node 39: foodnews
+Max distance from foodnews: 8.0
+Processing node 40: pic
+Max distance from pic: 8.0
+Processing node 41: randomsuperpowers
+Max distance from randomsuperpowers: 8.0
+Processing node 42: santacruzmeshnet
+Max distance from santacruzmeshnet: 0
+Processing node 43: eatingdisorders
+Max distance from eatingdisorders: 0
+Processing node 44: winmyargument
+Max distance from winmyargument: 8.0
+Processing node 45: nextcoin
+Max distance from nextcoin: 9.0
+Processing node 46: impactgamingcommunity
+Max distance from impactgamingcommunity: 0
+Processing node 47: ceruleanforlife
+Max distance from ceruleanforlife: 9.0
+Processing node 48: wlresearchcommunity
+Max distance from wlresearchcommunity: 8.0
+Processing node 49: planesgonewild
+Max distance from planesgonewild: 0
+Processing node 50: metalostgeneration
+Max distance from metalostgeneration: 0
+Processing node 51: music_survivor
+Max distance from music_survivor: 8.0
+Processing node 52: trwn
+Max distance from trwn: 0
+Processing node 53: wien
+Max distance from wien: 8.0
+Processing node 54: kirkcousinshaters
+Max distance from kirkcousinshaters: 9.0
+Processing node 55: shareplex
+Max distance from shareplex: 10.0
+Processing node 56: kghfthdfy
+Max distance from kghfthdfy: 0
+Processing node 57: dogecoinart
+Max distance from dogecoinart: 8.0
+Processing node 58: lomlpd
+Max distance from lomlpd: 0
+Processing node 59: lfg40k
+Max distance from lfg40k: 8.0
+Processing node 60: squaredaway
+Max distance from squaredaway: 9.0
+Processing node 61: sdcolorado
+Max distance from sdcolorado: 8.0
+Processing node 62: askhr
+Max distance from askhr: 8.0
+Processing node 63: diabetes_t2
+Max distance from diabetes_t2: 0
+Processing node 64: cinemasins
+Max distance from cinemasins: 8.0
+Processing node 65: spacebrothers
+Max distance from spacebrothers: 0
+Processing node 66: animedubs
+Max distance from animedubs: 8.0
+Processing node 67: amiiboswappoints
+Max distance from amiiboswappoints: 0
+Processing node 68: wheeloftimerp
+Max distance from wheeloftimerp: 11.0
+Processing node 69: modelchina
+Max distance from modelchina: 1.0
+Processing node 70: indianfood
+Max distance from indianfood: 8.0
+Processing node 71: vgstreams
+Max distance from vgstreams: 8.0
+Processing node 72: killerstormclan
+Max distance from killerstormclan: 9.0
+Processing node 73: digimon
+Max distance from digimon: 8.0
+Processing node 74: propose
+Max distance from propose: 0
+Processing node 75: malaysianpf
+Max distance from malaysianpf: 9.0
+Processing node 76: sayitmoreoften
+Max distance from sayitmoreoften: 9.0
+Processing node 77: breastsucking
+Max distance from breastsucking: 0
+Processing node 78: studyabroad
+Max distance from studyabroad: 8.0
+Processing node 79: shitstatistssay
+Max distance from shitstatistssay: 7.0
+Processing node 80: alabamaforsanders
+Max distance from alabamaforsanders: 8.0
+Processing node 81: museumdiscuss
+Max distance from museumdiscuss: 8.0
+Processing node 82: yugioh
+Max distance from yugioh: 8.0
+Processing node 83: backyardchickens
+Max distance from backyardchickens: 9.0
+Processing node 84: textadventures
+Max distance from textadventures: 9.0
+Processing node 85: iis
+Max distance from iis: 0
+Processing node 86: collegeessayreview
+Max distance from collegeessayreview: 9.0
+Processing node 87: backcountry
+Max distance from backcountry: 9.0
+Processing node 88: metaksrp
+Max distance from metaksrp: 0
+Processing node 89: fountainpencirclejerk
+Max distance from fountainpencirclejerk: 8.0
+Processing node 90: rustguide
+Max distance from rustguide: 9.0
+Processing node 91: julybumpers2017
+Max distance from julybumpers2017: 9.0
+Processing node 92: shittyaskreddit
+Max distance from shittyaskreddit: 8.0
+Processing node 93: archivists
+Max distance from archivists: 8.0
+Processing node 94: uee_trusted_traders
+Max distance from uee_trusted_traders: 8.0
+Processing node 95: shortwave
+Max distance from shortwave: 9.0
+Processing node 96: donorschoose
+Max distance from donorschoose: 8.0
+Processing node 97: opisfucked
+Max distance from opisfucked: 9.0
+Processing node 98: gangz
+Max distance from gangz: 9.0
+Processing node 99: tftb
+Max distance from tftb: 0
+Processing node 100: seo_nuke
+Max distance from seo_nuke: 8.0
+Processing node 101: thegreyhopeful
+Max distance from thegreyhopeful: 8.0
+Processing node 102: starbounddiaries
+Max distance from starbounddiaries: 9.0
+Processing node 103: overlore
+Max distance from overlore: 8.0
+Processing node 104: dogecoinmedia
+Max distance from dogecoinmedia: 0
+Processing node 105: fireemblemgoodtaste
+Max distance from fireemblemgoodtaste: 0
+Processing node 106: subdermalmagnets
+Max distance from subdermalmagnets: 1.0
+Processing node 107: classytrashy
+Max distance from classytrashy: 8.0
+Processing node 108: phisnomcyphers
+Max distance from phisnomcyphers: 8.0
+Processing node 109: redditmadeasong
+Max distance from redditmadeasong: 8.0
+Processing node 110: diving
+Max distance from diving: 9.0
+Processing node 111: shitpoliticssays
+Max distance from shitpoliticssays: 7.0
+Processing node 112: ladiesofmetal
+Max distance from ladiesofmetal: 8.0
+Processing node 113: breastcancer
+Max distance from breastcancer: 9.0
+Processing node 114: fatalbert
+Max distance from fatalbert: 0
+Processing node 115: namemytf2item
+Max distance from namemytf2item: 8.0
+Processing node 116: pickmeaphone
+Max distance from pickmeaphone: 9.0
+Processing node 117: bakersfieldcondors
+Max distance from bakersfieldcondors: 0
+Processing node 118: clandiscoverynetwork
+Max distance from clandiscoverynetwork: 0
+Processing node 119: macrogrowery
+Max distance from macrogrowery: 0
+Processing node 120: c64
+Max distance from c64: 9.0
+Processing node 121: altspacevr
+Max distance from altspacevr: 8.0
+Processing node 122: judgemyaccent
+Max distance from judgemyaccent: 8.0
+Processing node 123: kommunitycubesat
+Max distance from kommunitycubesat: 8.0
+Processing node 124: anythinggoeshealth
+Max distance from anythinggoeshealth: 2.0
+Processing node 125: petioles
+Max distance from petioles: 8.0
+Processing node 126: hostels
+Max distance from hostels: 0
+Processing node 127: newtothenavy
+Max distance from newtothenavy: 8.0
+Processing node 128: sound8bits
+Max distance from sound8bits: 8.0
+Processing node 129: devilianonline
+Max distance from devilianonline: 0
+Processing node 130: pocketmaplestory
+Max distance from pocketmaplestory: 0
+Processing node 131: free_images
+Max distance from free_images: 0
+Processing node 132: junitestsub
+Max distance from junitestsub: 9.0
+Processing node 133: wsb
+Max distance from wsb: 9.0
+Processing node 134: youtubecenter
+Max distance from youtubecenter: 10.0
+Processing node 135: dpnccr
+Max distance from dpnccr: 9.0
+Processing node 136: powermetal
+Max distance from powermetal: 9.0
+Processing node 137: amplaylists
+Max distance from amplaylists: 8.0
+Processing node 138: laptop
+Max distance from laptop: 8.0
+Processing node 139: fulloffantasies
+Max distance from fulloffantasies: 10.0
+Processing node 140: the100
+Max distance from the100: 8.0
+Processing node 141: dndhomebrew
+Max distance from dndhomebrew: 8.0
+Processing node 142: youarenowbanned
+Max distance from youarenowbanned: 8.0
+Processing node 143: mulehorngaming
+Max distance from mulehorngaming: 9.0
+Processing node 144: 747thworldpirates
+Max distance from 747thworldpirates: 10.0
+Processing node 145: unknowntradeco
+Max distance from unknowntradeco: 8.0
+Processing node 146: cheesemaking
+Max distance from cheesemaking: 9.0
+Processing node 147: nikujaga
+Max distance from nikujaga: 0
+Processing node 148: epublica
+Max distance from epublica: 9.0
+Processing node 149: tivideos
+Max distance from tivideos: 0
+Processing node 150: dortmund
+Max distance from dortmund: 8.0
+Processing node 151: ageplaystories
+Max distance from ageplaystories: 9.0
+Processing node 152: metallurgy
+Max distance from metallurgy: 9.0
+Processing node 153: paradigmchange
+Max distance from paradigmchange: 8.0
+Processing node 154: familiesyouchoose
+Max distance from familiesyouchoose: 8.0
+Processing node 155: doublebass
+Max distance from doublebass: 8.0
+Processing node 156: scoobydoo
+Max distance from scoobydoo: 8.0
+Processing node 157: xboxbadabing
+Max distance from xboxbadabing: 8.0
+Processing node 158: sonamains
+Max distance from sonamains: 8.0
+Processing node 159: gaybroteens
+Max distance from gaybroteens: 8.0
+Processing node 160: theprinciple
+Max distance from theprinciple: 11.0
+Processing node 161: soccerpredictions
+Max distance from soccerpredictions: 8.0
+Processing node 162: mrshow
+Max distance from mrshow: 9.0
+Processing node 163: vectorart
+Max distance from vectorart: 0
+Processing node 164: ofcoursethatsathing
+Max distance from ofcoursethatsathing: 8.0
+Processing node 165: chromebooks
+Max distance from chromebooks: 9.0
+Processing node 166: microvolts
+Max distance from microvolts: 1.0
+Processing node 167: sideload
+Max distance from sideload: 9.0
+Processing node 168: sayaka
+Max distance from sayaka: 9.0
+Processing node 169: problems
+Max distance from problems: 0
+Processing node 170: luvsjak
+Max distance from luvsjak: 9.0
+Processing node 171: virginityexchange
+Max distance from virginityexchange: 8.0
+Processing node 172: thailandlos
+Max distance from thailandlos: 9.0
+Processing node 173: dream_market
+Max distance from dream_market: 8.0
+Processing node 174: mh17
+Max distance from mh17: 10.0
+Processing node 175: republicofatheism
+Max distance from republicofatheism: 9.0
+Processing node 176: comic_tv_news
+Max distance from comic_tv_news: 9.0
+Processing node 177: burnnotice
+Max distance from burnnotice: 9.0
+Processing node 178: threesome
+Max distance from threesome: 8.0
+Processing node 179: reptrader
+Max distance from reptrader: 8.0
+Processing node 180: elementalhominid
+Max distance from elementalhominid: 8.0
+Processing node 181: irvinecarvery
+Max distance from irvinecarvery: 9.0
+Processing node 182: inventions
+Max distance from inventions: 9.0
+Processing node 183: boxingfight
+Max distance from boxingfight: 0
+Processing node 184: cod4
+Max distance from cod4: 0
+Processing node 185: boombeachrecruit
+Max distance from boombeachrecruit: 1.0
+Processing node 186: financialindependence
+Max distance from financialindependence: 8.0
+Processing node 187: greypomovies
+Max distance from greypomovies: 0
+Processing node 188: wotcirclejerk
+Max distance from wotcirclejerk: 8.0
+Processing node 189: 3dfilamentreviews
+Max distance from 3dfilamentreviews: 9.0
+Processing node 190: floattank
+Max distance from floattank: 0
+Processing node 191: investing_discussion
+Max distance from investing_discussion: 10.0
+Processing node 192: atletico
+Max distance from atletico: 8.0
+Processing node 193: readyplayerone
+Max distance from readyplayerone: 8.0
+Processing node 194: redditalchemy
+Max distance from redditalchemy: 9.0
+Processing node 195: clocks
+Max distance from clocks: 8.0
+Processing node 196: redditwritesseinfeld
+Max distance from redditwritesseinfeld: 8.0
+Processing node 197: airplaneenhancer
+Max distance from airplaneenhancer: 0
+Processing node 198: androidhomescreen
+Max distance from androidhomescreen: 9.0
+Processing node 199: elderscrollspowers
+Max distance from elderscrollspowers: 9.0
+Processing node 200: frozengames
+Max distance from frozengames: 0
+Processing node 201: thedaslore
+Max distance from thedaslore: 8.0
+Processing node 202: reddit_templars
+Max distance from reddit_templars: 9.0
+Processing node 203: botcraft
+Max distance from botcraft: 0
+Processing node 204: rpdrfantasyseason
+Max distance from rpdrfantasyseason: 9.0
+Processing node 205: osu
+Max distance from osu: 8.0
+Processing node 206: cookieclicker
+Max distance from cookieclicker: 8.0
+Processing node 207: scranton
+Max distance from scranton: 10.0
+Processing node 208: radicalsatanism
+Max distance from radicalsatanism: 0
+Processing node 209: tpgflairs
+Max distance from tpgflairs: 9.0
+Processing node 210: padres
+Max distance from padres: 8.0
+Processing node 211: letsreadabook2
+Max distance from letsreadabook2: 0
+Processing node 212: birthstories
+Max distance from birthstories: 9.0
+Processing node 213: freechipotleguacamole
+Max distance from freechipotleguacamole: 8.0
+Processing node 214: bpdart
+Max distance from bpdart: 8.0
+Processing node 215: hugeboobs
+Max distance from hugeboobs: 0
+Processing node 216: pushherhead
+Max distance from pushherhead: 0
+Processing node 217: checkpointsapp
+Max distance from checkpointsapp: 0
+Processing node 218: falseequivalency
+Max distance from falseequivalency: 9.0
+Processing node 219: elite_pvp
+Max distance from elite_pvp: 9.0
+Processing node 220: intp
+Max distance from intp: 7.0
+Processing node 221: dogetent
+Max distance from dogetent: 8.0
+Processing node 222: soulection
+Max distance from soulection: 8.0
+Processing node 223: reduxjs
+Max distance from reduxjs: 9.0
+Processing node 224: aytos
+Max distance from aytos: 9.0
+Processing node 225: nomansfans
+Max distance from nomansfans: 8.0
+Processing node 226: snooland
+Max distance from snooland: 0
+Processing node 227: tvstreams
+Max distance from tvstreams: 0
+Processing node 228: recapcentral
+Max distance from recapcentral: 7.0
+Processing node 229: cumonclothes
+Max distance from cumonclothes: 0
+Processing node 230: sugarfreechallenge
+Max distance from sugarfreechallenge: 1.0
+Processing node 231: pythonmarket
+Max distance from pythonmarket: 9.0
+Processing node 232: princeindanorf
+Max distance from princeindanorf: 0
+Processing node 233: bassplaying
+Max distance from bassplaying: 0
+Processing node 234: gtfoderrickandarmand
+Max distance from gtfoderrickandarmand: 8.0
+Processing node 235: atlantacirclejerk
+Max distance from atlantacirclejerk: 8.0
+Processing node 236: cracktheclue
+Max distance from cracktheclue: 8.0
+Processing node 237: toarumajutsunoindex
+Max distance from toarumajutsunoindex: 8.0
+Processing node 238: redpillnonmonogamy
+Max distance from redpillnonmonogamy: 8.0
+Processing node 239: wethebest
+Max distance from wethebest: 8.0
+Processing node 240: pluribism
+Max distance from pluribism: 0
+Processing node 241: fearnotthewrath
+Max distance from fearnotthewrath: 0
+Processing node 242: 3dsbrewupdates
+Max distance from 3dsbrewupdates: 0
+Processing node 243: pm_your_pokemon_team
+Max distance from pm_your_pokemon_team: 0
+Processing node 244: probability
+Max distance from probability: 8.0
+Processing node 245: indxlge
+Max distance from indxlge: 11.0
+Processing node 246: askanengineer
+Max distance from askanengineer: 9.0
+Processing node 247: immortals
+Max distance from immortals: 8.0
+Processing node 248: freakonomics
+Max distance from freakonomics: 0
+Processing node 249: ifoundsara
+Max distance from ifoundsara: 8.0
+Processing node 250: sziget
+Max distance from sziget: 0
+Processing node 251: subredditoftheday
+Max distance from subredditoftheday: 7.0
+Processing node 252: poecss
+Max distance from poecss: 1.0
+Processing node 253: realestate4btc
+Max distance from realestate4btc: 0
+Processing node 254: referrals
+Max distance from referrals: 9.0
+Processing node 255: peoplesmetanarchism
+Max distance from peoplesmetanarchism: 8.0
+Processing node 256: terrariaconsole
+Max distance from terrariaconsole: 8.0
+Processing node 257: headphones
+Max distance from headphones: 8.0
+Processing node 258: bozemantproblems
+Max distance from bozemantproblems: 0
+Processing node 259: fuckingmanly
+Max distance from fuckingmanly: 9.0
+Processing node 260: dominathegame
+Max distance from dominathegame: 1.0
+Processing node 261: yellowstone
+Max distance from yellowstone: 9.0
+Processing node 262: libertarianfeminism
+Max distance from libertarianfeminism: 0
+Processing node 263: notredamesports
+Max distance from notredamesports: 8.0
+Processing node 264: beaumont
+Max distance from beaumont: 0
+Processing node 265: fifthworldpoetry
+Max distance from fifthworldpoetry: 9.0
+Processing node 266: khaled985
+Max distance from khaled985: 9.0
+Processing node 267: masmadrid
+Max distance from masmadrid: 0
+Processing node 268: amateurcompdota2
+Max distance from amateurcompdota2: 9.0
+Processing node 269: novaterra
+Max distance from novaterra: 9.0
+Processing node 270: defensorhirsch
+Max distance from defensorhirsch: 9.0
+Processing node 271: devsia
+Max distance from devsia: 9.0
+Processing node 272: aap_logic
+Max distance from aap_logic: 0
+Processing node 273: mockredditadmins
+Max distance from mockredditadmins: 8.0
+Processing node 274: foodhacks
+Max distance from foodhacks: 8.0
+Processing node 275: pokemongomystic
+Max distance from pokemongomystic: 8.0
+Processing node 276: ireland
+Max distance from ireland: 7.0
+Processing node 277: gungan_philosophers
+Max distance from gungan_philosophers: 9.0
+Processing node 278: loglang
+Max distance from loglang: 10.0
+Processing node 279: bretagne
+Max distance from bretagne: 8.0
+Processing node 280: bgmlltimberwolves
+Max distance from bgmlltimberwolves: 10.0
+Processing node 281: packagingfail
+Max distance from packagingfail: 0
+Processing node 282: shittyrehabs
+Max distance from shittyrehabs: 8.0
+Processing node 283: beatles
+Max distance from beatles: 8.0
+Processing node 284: edbangerrecords
+Max distance from edbangerrecords: 0
+Processing node 285: piratenpartij
+Max distance from piratenpartij: 9.0
+Processing node 286: winamp
+Max distance from winamp: 0
+Processing node 287: benignexistence
+Max distance from benignexistence: 8.0
+Processing node 288: wildchicks
+Max distance from wildchicks: 0
+Processing node 289: askgrammarnazis
+Max distance from askgrammarnazis: 9.0
+Processing node 290: shadowwararmageddon
+Max distance from shadowwararmageddon: 9.0
+Processing node 291: californiaforsanders
+Max distance from californiaforsanders: 8.0
+Processing node 292: fag7u12
+Max distance from fag7u12: 10.0
+Processing node 293: rhap
+Max distance from rhap: 0
+Processing node 294: lifeofanon
+Max distance from lifeofanon: 0
+Processing node 295: trollxy
+Max distance from trollxy: 9.0
+Processing node 296: carplay
+Max distance from carplay: 10.0
+Processing node 297: roll20lfg
+Max distance from roll20lfg: 8.0
+Processing node 298: nataliedormer
+Max distance from nataliedormer: 0
+Processing node 299: dzmissedconnections
+Max distance from dzmissedconnections: 9.0
+Processing node 300: longhair
+Max distance from longhair: 0
+Processing node 301: burstcoin
+Max distance from burstcoin: 8.0
+Processing node 302: dnd_victoria
+Max distance from dnd_victoria: 9.0
+Processing node 303: warplanesnuffporn
+Max distance from warplanesnuffporn: 1.0
+Processing node 304: broadway
+Max distance from broadway: 10.0
+Processing node 305: tutanota
+Max distance from tutanota: 10.0
+Processing node 306: krasnaya
+Max distance from krasnaya: 9.0
+Processing node 307: ncaaw
+Max distance from ncaaw: 9.0
+Processing node 308: watchdogsmods
+Max distance from watchdogsmods: 9.0
+Processing node 309: pogocle
+Max distance from pogocle: 8.0
+Processing node 310: thedivisionpompoms
+Max distance from thedivisionpompoms: 9.0
+Processing node 311: rivenmains
+Max distance from rivenmains: 8.0
+Processing node 312: faggots
+Max distance from faggots: 1.0
+Processing node 313: firewatch
+Max distance from firewatch: 8.0
+Processing node 314: egpusetups
+Max distance from egpusetups: 0
+Processing node 315: modafinilbank
+Max distance from modafinilbank: 9.0
+Processing node 316: norml
+Max distance from norml: 1.0
+Processing node 317: videoprompts
+Max distance from videoprompts: 8.0
+Processing node 318: xboxdvrbot
+Max distance from xboxdvrbot: 0
+Processing node 319: gonzomojo
+Max distance from gonzomojo: 8.0
+Processing node 320: topois
+Max distance from topois: 12.0
+Processing node 321: awardtravel
+Max distance from awardtravel: 9.0
+Processing node 322: pricezombie
+Max distance from pricezombie: 8.0
+Processing node 323: cheapcsgotrading
+Max distance from cheapcsgotrading: 8.0
+Processing node 324: fayetteville
+Max distance from fayetteville: 8.0
+Processing node 325: mildlyreposting
+Max distance from mildlyreposting: 9.0
+Processing node 326: launchcodecs50x
+Max distance from launchcodecs50x: 8.0
+Processing node 327: directdealvendors
+Max distance from directdealvendors: 9.0
+Processing node 328: bonsaiporn
+Max distance from bonsaiporn: 0
+Processing node 329: zeuscoin
+Max distance from zeuscoin: 0
+Processing node 330: socceranalysis
+Max distance from socceranalysis: 9.0
+Processing node 331: triptongue
+Max distance from triptongue: 1.0
+Processing node 332: redditinfinity
+Max distance from redditinfinity: 9.0
+Processing node 333: grehelp
+Max distance from grehelp: 10.0
+Processing node 334: pennystock
+Max distance from pennystock: 0
+Processing node 335: bitcointoday
+Max distance from bitcointoday: 8.0
+Processing node 336: sonyalpha
+Max distance from sonyalpha: 9.0
+Processing node 337: liferpg
+Max distance from liferpg: 0
+Processing node 338: knugencoin
+Max distance from knugencoin: 8.0
+Processing node 339: findassange
+Max distance from findassange: 8.0
+Processing node 340: lexington
+Max distance from lexington: 9.0
+Processing node 341: shoebots
+Max distance from shoebots: 1.0
+Processing node 342: judaismtooltips
+Max distance from judaismtooltips: 0
+Processing node 343: jessicanigri2
+Max distance from jessicanigri2: 7.0
+Processing node 344: ancaplounge
+Max distance from ancaplounge: 8.0
+Processing node 345: rfaf
+Max distance from rfaf: 0
+Processing node 346: sundevils
+Max distance from sundevils: 9.0
+Processing node 347: redlettermedia
+Max distance from redlettermedia: 8.0
+Processing node 348: gendertalk
+Max distance from gendertalk: 8.0
+Processing node 349: baylortest
+Max distance from baylortest: 9.0
+Processing node 350: giveme40days
+Max distance from giveme40days: 8.0
+Processing node 351: occult
+Max distance from occult: 7.0
+Processing node 352: whisky
+Max distance from whisky: 8.0
+Processing node 353: teaexchange
+Max distance from teaexchange: 9.0
+Processing node 354: rpgpolska
+Max distance from rpgpolska: 8.0
+Processing node 355: aircrack
+Max distance from aircrack: 9.0
+Processing node 356: newmilovana
+Max distance from newmilovana: 1.0
+Processing node 357: lansing
+Max distance from lansing: 8.0
+Processing node 358: facebookwins
+Max distance from facebookwins: 0
+Processing node 359: chattanoogaents
+Max distance from chattanoogaents: 10.0
+Processing node 360: f1games
+Max distance from f1games: 10.0
+Processing node 361: phonesexwithtodd
+Max distance from phonesexwithtodd: 9.0
+Processing node 362: kingstonontario
+Max distance from kingstonontario: 9.0
+Processing node 363: madmen
+Max distance from madmen: 8.0
+Processing node 364: pokemongoivs
+Max distance from pokemongoivs: 8.0
+Processing node 365: pectusexcavatum
+Max distance from pectusexcavatum: 9.0
+Processing node 366: referral
+Max distance from referral: 11.0
+Processing node 367: cincinnati
+Max distance from cincinnati: 8.0
+Processing node 368: gangstalking
+Max distance from gangstalking: 8.0
+Processing node 369: civabrya
+Max distance from civabrya: 0
+Processing node 370: orangekeys
+Max distance from orangekeys: 1.0
+Processing node 371: duckvimes
+Max distance from duckvimes: 8.0
+Processing node 372: teamghost
+Max distance from teamghost: 9.0
+Processing node 373: civnewcovenant
+Max distance from civnewcovenant: 0
+Processing node 374: skymallshoppers
+Max distance from skymallshoppers: 8.0
+Processing node 375: thecryptarchs
+Max distance from thecryptarchs: 8.0
+Processing node 376: indiebeauty
+Max distance from indiebeauty: 9.0
+Processing node 377: vitatv
+Max distance from vitatv: 9.0
+Processing node 378: archlinuxarm
+Max distance from archlinuxarm: 9.0
+Processing node 379: recklesstheclan
+Max distance from recklesstheclan: 8.0
+Processing node 380: cuboulder
+Max distance from cuboulder: 8.0
+Processing node 381: house
+Max distance from house: 8.0
+Processing node 382: goblin_ffxiv
+Max distance from goblin_ffxiv: 8.0
+Processing node 383: montrealents
+Max distance from montrealents: 9.0
+Processing node 384: borednignored
+Max distance from borednignored: 10.0
+Processing node 385: leaguefactions
+Max distance from leaguefactions: 8.0
+Processing node 386: destructive_mods
+Max distance from destructive_mods: 1.0
+Processing node 387: underminers
+Max distance from underminers: 8.0
+Processing node 388: youngmaleporn
+Max distance from youngmaleporn: 0
+Processing node 389: uhcfanfics
+Max distance from uhcfanfics: 0
+Processing node 390: squaredcircle_fr
+Max distance from squaredcircle_fr: 0
+Processing node 391: ethereumunlimited
+Max distance from ethereumunlimited: 9.0
+Processing node 392: theweeknd
+Max distance from theweeknd: 8.0
+Processing node 393: racisttwitterhumor
+Max distance from racisttwitterhumor: 9.0
+Processing node 394: gw2raidtrainings
+Max distance from gw2raidtrainings: 8.0
+Processing node 395: fivefapsatfreddys
+Max distance from fivefapsatfreddys: 8.0
+Processing node 396: politicalscience
+Max distance from politicalscience: 8.0
+Processing node 397: pokemongiveawaygalore
+Max distance from pokemongiveawaygalore: 9.0
+Processing node 398: repentantbetrayers
+Max distance from repentantbetrayers: 9.0
+Processing node 399: succession
+Max distance from succession: 9.0
+Processing node 400: indybeer
+Max distance from indybeer: 9.0
+Processing node 401: occupyboston
+Max distance from occupyboston: 2.0
+Processing node 402: ombudsman_ja
+Max distance from ombudsman_ja: 8.0
+Processing node 403: mattcolville
+Max distance from mattcolville: 8.0
+Processing node 404: sagesgrandarchives
+Max distance from sagesgrandarchives: 8.0
+Processing node 405: americanathletic
+Max distance from americanathletic: 8.0
+Processing node 406: biwife
+Max distance from biwife: 9.0
+Processing node 407: mixcd
+Max distance from mixcd: 0
+Processing node 408: dmb
+Max distance from dmb: 9.0
+Processing node 409: onlinemovieplaylists
+Max distance from onlinemovieplaylists: 9.0
+Processing node 410: sneks
+Max distance from sneks: 8.0
+Processing node 411: teenkik
+Max distance from teenkik: 8.0
+Processing node 412: dishonoredlore
+Max distance from dishonoredlore: 9.0
+Processing node 413: mandarinb
+Max distance from mandarinb: 9.0
+Processing node 414: isbeanfiddlermadtoday
+Max distance from isbeanfiddlermadtoday: 0
+Processing node 415: coffeeswritingcafe
+Max distance from coffeeswritingcafe: 8.0
+Processing node 416: mushroomgrowers
+Max distance from mushroomgrowers: 9.0
+Processing node 417: doctorswithoutborders
+Max distance from doctorswithoutborders: 8.0
+Processing node 418: thisismylifenow
+Max distance from thisismylifenow: 0
+Processing node 419: civexcubism
+Max distance from civexcubism: 9.0
+Processing node 420: aggies
+Max distance from aggies: 8.0
+Processing node 421: dreamcareerhelp
+Max distance from dreamcareerhelp: 9.0
+Processing node 422: wintersurvival
+Max distance from wintersurvival: 1.0
+Processing node 423: seiko
+Max distance from seiko: 7.0
+Processing node 424: mexico
+Max distance from mexico: 8.0
+Processing node 425: askhealth
+Max distance from askhealth: 8.0
+Processing node 426: testreddit5me
+Max distance from testreddit5me: 0
+Processing node 427: ageofmythology
+Max distance from ageofmythology: 0
+Processing node 428: projecterddos
+Max distance from projecterddos: 9.0
+Processing node 429: montrealgo
+Max distance from montrealgo: 9.0
+Processing node 430: honeycraft
+Max distance from honeycraft: 0
+Processing node 431: electronicmusic
+Max distance from electronicmusic: 8.0
+Processing node 432: dayone
+Max distance from dayone: 0
+Processing node 433: westerneuropesr
+Max distance from westerneuropesr: 9.0
+Processing node 434: pokemongoauckland
+Max distance from pokemongoauckland: 0
+Processing node 435: raftel
+Max distance from raftel: 0
+Processing node 436: ouroverusedveins
+Max distance from ouroverusedveins: 0
+Processing node 437: odroid
+Max distance from odroid: 8.0
+Processing node 438: fanfiction
+Max distance from fanfiction: 8.0
+Processing node 439: amateurbikeporn
+Max distance from amateurbikeporn: 0
+Processing node 440: mensrightslaw
+Max distance from mensrightslaw: 9.0
+Processing node 441: timesplitters
+Max distance from timesplitters: 9.0
+Processing node 442: gwrbi
+Max distance from gwrbi: 0
+Processing node 443: pokeflags
+Max distance from pokeflags: 9.0
+Processing node 444: xcofficialreddit
+Max distance from xcofficialreddit: 0
+Processing node 445: charlottesville
+Max distance from charlottesville: 9.0
+Processing node 446: internethistorian
+Max distance from internethistorian: 8.0
+Processing node 447: network
+Max distance from network: 9.0
+Processing node 448: tranceproduction
+Max distance from tranceproduction: 0
+Processing node 449: capmods
+Max distance from capmods: 2.0
+Processing node 450: processing
+Max distance from processing: 8.0
+Processing node 451: mensrightslinks
+Max distance from mensrightslinks: 0
+Processing node 452: sellercirclestage
+Max distance from sellercirclestage: 10.0
+Processing node 453: exmormon
+Max distance from exmormon: 7.0
+Processing node 454: elementary
+Max distance from elementary: 8.0
+Processing node 455: cameraporn
+Max distance from cameraporn: 0
+Processing node 456: beetlejuicing
+Max distance from beetlejuicing: 8.0
+Processing node 457: nodejs
+Max distance from nodejs: 8.0
+Processing node 458: ocbeer
+Max distance from ocbeer: 9.0
+Processing node 459: clearlake
+Max distance from clearlake: 9.0
+Processing node 460: justreddingtonstories
+Max distance from justreddingtonstories: 9.0
+Processing node 461: pokemongoanywhere
+Max distance from pokemongoanywhere: 9.0
+Processing node 462: dmdadjokes
+Max distance from dmdadjokes: 8.0
+Processing node 463: visualstudio2015
+Max distance from visualstudio2015: 9.0
+Processing node 464: rproomfbb
+Max distance from rproomfbb: 9.0
+Processing node 465: csfragfilms
+Max distance from csfragfilms: 8.0
+Processing node 466: insects
+Max distance from insects: 9.0
+Processing node 467: laptopama
+Max distance from laptopama: 9.0
+Processing node 468: windowsserver
+Max distance from windowsserver: 8.0
+Processing node 469: viziotv
+Max distance from viziotv: 8.0
+Processing node 470: gtagivers
+Max distance from gtagivers: 9.0
+Processing node 471: artaeum
+Max distance from artaeum: 9.0
+Processing node 472: venturebros
+Max distance from venturebros: 8.0
+Processing node 473: mensrightsmeta
+Max distance from mensrightsmeta: 8.0
+Processing node 474: batch
+Max distance from batch: 0
+Processing node 475: cichlid
+Max distance from cichlid: 9.0
+Processing node 476: uncensoredmisanthropy
+Max distance from uncensoredmisanthropy: 9.0
+Processing node 477: ukpolitics
+Max distance from ukpolitics: 8.0
+Processing node 478: tampabaybeer
+Max distance from tampabaybeer: 9.0
+Processing node 479: neipabrewing
+Max distance from neipabrewing: 9.0
+Processing node 480: redditcasual
+Max distance from redditcasual: 8.0
+Processing node 481: geopoliticsblog
+Max distance from geopoliticsblog: 9.0
+Processing node 482: pdxmp
+Max distance from pdxmp: 9.0
+Processing node 483: blerds
+Max distance from blerds: 9.0
+Processing node 484: mflb
+Max distance from mflb: 8.0
+Processing node 485: evenwithcontext
+Max distance from evenwithcontext: 0
+Processing node 486: ostrava
+Max distance from ostrava: 9.0
+Processing node 487: businesscasestudies
+Max distance from businesscasestudies: 8.0
+Processing node 488: bo3pc
+Max distance from bo3pc: 9.0
+Processing node 489: compulsiveskinpicking
+Max distance from compulsiveskinpicking: 8.0
+Processing node 490: dorset
+Max distance from dorset: 9.0
+Processing node 491: pyrography
+Max distance from pyrography: 0
+Processing node 492: hereinmycar
+Max distance from hereinmycar: 0
+Processing node 493: ps2bot
+Max distance from ps2bot: 9.0
+Processing node 494: gw2spqr
+Max distance from gw2spqr: 8.0
+Processing node 495: kingofthehill
+Max distance from kingofthehill: 0
+Processing node 496: streetpassnetwork
+Max distance from streetpassnetwork: 9.0
+Processing node 497: theharshc
+Max distance from theharshc: 8.0
+Processing node 498: classicalmusic
+Max distance from classicalmusic: 8.0
+Processing node 499: throwthisawaythataway
+Max distance from throwthisawaythataway: 9.0
+Processing node 500: homeowner
+Max distance from homeowner: 0
+
+Final computed diameter: 12.0

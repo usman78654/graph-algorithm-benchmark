@@ -1,0 +1,3 @@
+BFS execution Time: 0.056346 seconds
+DFS execution Time: 0.071730 seconds
+Cycle Detection execution Time: 0.000061 seconds

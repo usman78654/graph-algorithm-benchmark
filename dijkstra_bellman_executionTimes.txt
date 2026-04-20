@@ -1,0 +1,2 @@
+Dijkstra execution time: 0.129538 seconds
+Bellman-Ford execution time: 0.487246 seconds
